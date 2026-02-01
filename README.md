@@ -2,7 +2,7 @@
 
 ### Industrial Engineering Student | Data Science & Analytics Enthusiast
 
-I am a 3rd-year Industrial Engineering student at METU with a strong interest in data-driven decision making, machine learning, and optimization.  
+I am a 4th-year Industrial Engineering student at METU with a strong interest in data-driven decision making, machine learning, and optimization.  
 I enjoy uncovering insights from complex datasets and transforming them into actionable solutions.
 
 ---
