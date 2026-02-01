@@ -1,75 +1,139 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=200&section=header&text=Emre%20Başaran&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Industrial%20Engineering%20Student%20@%20METU%20|%20Data%20Science%20&%20Optimization&descAlignY=55&descAlign=50" width="100%" />
+<!--Banner-->
+![Banner Image](./banner.png)
+
+<!--Right Side Image-->
+<div>
+  <img align="right" width="38%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/basaranemre" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:emrebasaranwork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://github.com/emrebasaran1">
-    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-</div>
-
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Emre Basaran
+*Data Enthusiast / Industrial Engineering Student*
 <br />
 
-<div align="center">
-  <h3>⚡ Data-Driven Solutions for Complex Industrial Problems</h3>
-  <p>I transform raw data into actionable insights using Machine Learning, Statistical Analysis, and Mathematical Optimization.</p>
-</div>
+<!--Intro Section-->               
+<p align="left">
+I am an Industrial Engineering student at METU with a strong focus on Data Science, Machine Learning, and Optimization.  
+I enjoy transforming raw data into meaningful insights and building models that support real-world decision making.
+</p>
+
+- 🔍 Passionate about analytics and predictive modeling  
+- 📊 Working on data-driven projects in the energy sector  
+- 🤖 Interested in Machine Learning and AI applications  
+- 🧠 Learning new tools and techniques every day  
+- 📍 Based in Ankara, Türkiye  
+- 💻 Check out my repositories below  
 
 ---
 
-### 🛠️ Technical Arsenal
-
-<div align="center">
-
-| **Core Competencies** | **Technologies & Tools** |
-| :---: | :--- |
-| **Data Science** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
-| **Optimization** | ![Pyomo](https://img.shields.io/badge/Pyomo-Optimization-green?style=flat-square) ![Gurobi](https://img.shields.io/badge/Gurobi-Solver-red?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white) |
-| **Database & Ops** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
-
-</div>
+<!--Profile Views-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=emrebasaran1&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="emrebasaran1" />
+</p>
 
 ---
 
-### 📂 Featured Case Studies
+<h2 align="center">Tech Stack & Skills</h2>
 
-#### 🧠 Machine Learning & Predictive Analytics
-> *Identifying patterns in energy consumption and grid reliability.*
+### Programming & Tools
+- **Languages:** Python, SQL, R, MATLAB  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Pyomo, Matplotlib  
+- **Databases:** MySQL  
+- **Dev Tools:** Git, GitHub, Docker, Linux  
+- **Other:** Excel, Jira, DBeaver, Overleaf  
 
-| Project | Context | Key Tech | Impact |
-| :--- | :--- | :--- | :--- |
-| **Non-Technical Loss Detection** | **Enerjisa** | `Random Forest` `SQL` | Enhanced theft detection rates by modeling 60 months of consumption anomalies. |
-| **Outage Prediction** | **Enerjisa** | `XGBoost` `SHAP` | Modeled extreme weather impacts on grid infrastructure to guide strategic investments. |
-| **Engagement Analysis** | **Project** | `R` `ggplot2` | Validated user engagement drivers via rigorous hypothesis testing (ANOVA) and regression. |
-
-<br/>
-
-#### ⛓️ Supply Chain & Optimization
-> *Maximizing efficiency through mathematical modeling.*
-
-| Project | Context | Key Tech | Impact |
-| :--- | :--- | :--- | :--- |
-| **OliveGOLD Network Design** | **Project** | `Pyomo` `MIP` | Optimized multi-echelon network flow to maximize profitability under capacity constraints. |
-| **Robotic Manufacturing** | **Project** | `Gurobi` `LP` | Synchronized production schedules across facilities to minimize idle time. |
-| **Surgery Scheduling** | **Project** | `MATLAB` `OOP` | Minimized delays using heuristic algorithms and stochastic simulation. |
+### Core Expertise
+- Machine Learning & Predictive Analytics  
+- Statistical Analysis  
+- Anomaly Detection  
+- Linear & Mixed-Integer Programming  
+- Supply Chain Optimization  
+- Data Cleaning & Feature Engineering  
 
 ---
 
-### 📊 GitHub Activity
+<h2 align="center">Featured Projects</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrebasaran1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Emre's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrebasaran1&theme=radical&hide_border=true&bg_color=0D1117" alt="Emre's Streak" />
-</div>
+### 🔹 Non-Technical Loss Detection  
+Predictive anomaly detection for energy theft using real consumption data  
+- Random Forest based classification  
+- Large-scale feature engineering  
+- Business impact focused modeling  
 
-<div align="center">
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=emrebasaran1&style=flat-square&label=Profile+Views&color=blue" alt="Profile Views" />
-</div>
+### 🔹 Weather-Driven Outage Prediction  
+Machine learning models analyzing the effect of meteorological conditions on power outages  
+- XGBoost & SHAP analysis  
+- Infrastructure risk modeling  
+- Data-driven investment recommendations  
+
+### 🔹 SAP ABAP Inventory Management  
+Custom inventory tracking and reporting system  
+- ALV Grid integration  
+- Database table design  
+- Internal automation  
+
+---
+
+<h2 align="center">Academic & Personal Repositories</h2>
+
+- **Project Engagement Analysis**  
+  Statistical modeling and customer insight analysis  
+  https://github.com/emrebasaran1/ProjectEngagementAnalaysis  
+
+- **OliveGOLD Supply Chain Optimization**  
+  Mixed Integer Programming based network design  
+  https://github.com/emrebasaran1/OliveGold_Supply_Chain_Network_Design_and_Optimization  
+
+- **Robotic Component Manufacturing Optimization**  
+  Linear programming with Pyomo  
+  https://github.com/emrebasaran1/Optimization-of-Robotic-Component-Manufacturing-with-Pyomo  
+
+- **Surgery Room Scheduling**  
+  MATLAB-based scheduling simulation  
+  https://github.com/emrebasaran1/Daily-Surgey-Room-Scheduling-Hospital  
+
+- **Pandemic Transmission Model**  
+  Cellular automata simulation in MATLAB  
+  https://github.com/emrebasaran1/Corona-Virus-Simulation  
+
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emrebasaran1&show_icons=true&theme=nightowl" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrebasaran1&theme=nightowl" />
+</p>
+
+---
+
+<h2 align="center">Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emrebasaran1&theme=github" />
+</p>
+
+---
+
+<h2 align="center">Connect With Me</h2>
+
+<p align="center">
+<a href="mailto:emrebasaranwork@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+</a>
+<a href="https://linkedin.com/in/basaranemre">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+<a href="https://github.com/emrebasaran1">
+  <img src="https://img.icons8.com/color/48/000000/github.png"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  “Turning data into decisions.”
+</p>
