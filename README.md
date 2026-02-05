@@ -98,18 +98,6 @@ Custom inventory tracking and reporting system
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrebasaran1&show_icons=true&theme=nightowl" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrebasaran1&theme=nightowl" />
-</p>
-
----
-
 <h2 align="center">Contribution Graph</h2>
 
 <p align="center">
@@ -130,10 +118,4 @@ Custom inventory tracking and reporting system
 <a href="https://github.com/emrebasaran1">
   <img src="https://img.icons8.com/color/48/000000/github.png"/>
 </a>
-</p>
-
----
-
-<p align="center">
-  “Turning data into decisions.”
 </p>
