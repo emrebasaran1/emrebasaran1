@@ -17,8 +17,7 @@ I enjoy transforming raw data into meaningful insights and building models that 
 - 🔍 Passionate about analytics and predictive modeling  
 - 📊 Working on data-driven projects
 - 🤖 Interested in Machine Learning and AI applications  
-- 🧠 Learning new tools and techniques every day  
-- 📍 Based in Ankara, Türkiye  
+- 🧠 Learning new tools and techniques every day   
 - 💻 Check out my repositories below  
 
 ---
